@@ -2,6 +2,8 @@
 Version: 2.0.0
 
 Author: Annabel, Aurorapar/show_inferno.cs
+ 
+Special thanks to: AuroraPar for their contribution to the inferno system logic (Aurorapar/show_inferno.cs)
 
 Description: A Counter-Strike 2 plugin that introduces RPG elements for Dragonborn players, including XP, leveling, cooldown-based abilities, and MySQL integration.
 
